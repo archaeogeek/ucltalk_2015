@@ -1,0 +1,14 @@
+.reveal a:not(.image) {
+  color: red !important;
+ }
+
+ img.center {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  border:0px !important;
+
+.reveal {
+  font-size: 30px !important;
+ }
+}
